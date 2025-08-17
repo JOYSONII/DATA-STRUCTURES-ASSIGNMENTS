@@ -2,7 +2,7 @@
 
 NAME: JOY SONI   ROLL NUMBER: 1024030674
 
-QUE1: Developa Menudrivenprogramtodemonstrate the followingoperations of Arrays
+QUE1: Developa Menu driven program to demonstrate the following operations of Arrays
 ——MENU——-
 1.CREATE
 2.DISPLAY
@@ -453,6 +453,7 @@ Sum of column 1 = 15
 Sum of column 2 = 18
 
 ------------------X----------------------X----------------------X-------------------------
+
 
 
 
